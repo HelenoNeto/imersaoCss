@@ -5,6 +5,10 @@ body{
   height:100vh;
 }
 
+img{ 
+  filter: blur(2px)
+}
+
 .menu{
   background-color:white;
 }
